@@ -1,4 +1,5 @@
-## Hi there, My name is Chenhao Guo 👋
+## Hi there 👋
+Welcome to my profile. I'm Chenhao Guo, a Computer Systems major at Carnegie Mellon University. My academic focus and interests lie in the areas of distributed systems, database systems, and cloud computing. I'm passionate about developing scalable and efficient computing solutions that push the boundaries of these fields. Feel free to explore my repositories and reach out to me.
 
 ## 🛠️ My Tech Stack 
 
