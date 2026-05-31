@@ -60,10 +60,6 @@ Innovated Double U-Net structure for image fusion:
 - **Carnegie Mellon University** - M.S. in Computer Systems, 08/2023 - 12/2024
 - **University of Electronic Science and Technology of China** - B.E. in Computer Engineering, 09/2019 - 07/2023
 
-### 🏆 GitHub Trophy
-
-[![carlguo508's github trophy](https://github-profile-trophy.vercel.app/?username=carlguo508)](https://github.com/carlguo508/github-profile-trophy)
-
 ### 📊 GitHub Stats
 
 ![carlguo508's Summary](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=carlguo508&theme=transparent)
